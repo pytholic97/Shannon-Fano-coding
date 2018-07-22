@@ -12,4 +12,4 @@ of each unique symbol present in the input file. It considers these probabilites
 to construct the coding tree and not the actual probabilities of the symbols in the input file.
 
 # Author
-Prathamesh Mandke - prathrules@gmail.com
+Prathamesh Mandke - mandkepk97@gmail.com
