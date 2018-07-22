@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1519918302 source:d:\study\sem-6\itc\fano_coding\helpers.c
+	"structs.h"
+	<stdio.h>
+
+1519706521 d:\study\sem-6\itc\fano_coding\structs.h
+	<stdbool.h>
+
+1519918723 source:d:\study\sem-6\itc\fano_coding\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<malloc.h>
+	"structs.h"
+
+1524151058 source:d:\study\sem-6\itc\fano_coding\funs.c
+	"structs.h"
+	<stdio.h>
+
